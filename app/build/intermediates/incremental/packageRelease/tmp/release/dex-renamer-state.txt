@@ -1,0 +1,4 @@
+#Sat Aug 14 02:22:42 WAT 2021
+base.0=F\:\\Projet\\Mes app Androids\\FlashLight\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Sat Aug 14 02:23:58 WAT 2021
+base.0=F\:\\Projet\\Mes app Androids\\FlashLight\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\Projet\\Mes app Androids\\FlashLight\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
